@@ -1,0 +1,90 @@
+h3 {
+  color: red;
+}
+
+#first-h3 {
+  background-color: blue;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.border-pink {
+  border-color: pink;
+  border-width: 3px;
+  border-style: dashed;
+}
+#small {
+  width: 300px;
+  height: 200px;
+
+}
+.bg-img {
+  background-image: url("../static/bongru.jpg");
+  width: 100%;
+  height: 500px
+
+}
+b-red {
+  border-color: blue;
+  border-width: 1px;
+  border-style: solid;
+}
+.b-t-red {
+  border-top: : red 1px solid;
+}
+
+.f-georgia {
+  font-family: "Georgia",sans-serif;
+  font-size: 6em;
+  /*text-decoration: underline;*/
+  font-weight: normal;
+  font-style: italic;
+}
+.f-verdana {
+  font-family: "Verdana",serif;
+  font-size: 10em;
+}
+.w-3{
+  width: 30%;
+}
+.h-100p{
+  height: 100px;
+
+}
+.bg-red{
+  background-color: lightblue;
+}
+.t-a-centre {
+  text-align: center;
+}
+.d-inline {
+  display: inline;
+}
+.d-inline-block {
+  display: inline-block;
+}
+.p-l-20p {
+  padding-left: 20px;
+}
+.p-t-20p {
+  padding-top: 20px;
+}
+.p-20p {
+  padding: 2px;
+}
+.p-tl-20p {
+  padding: 10px 0px 0px 20px
+}
+.m-b-10px {
+  margin-bottom: 10px;
+}
+.m-t-20p {
+  margin-top: 20px;
+}
+#smal {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
